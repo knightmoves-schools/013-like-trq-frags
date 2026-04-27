@@ -1,1 +1,3 @@
--- Add your SQL here
+SELECT *
+FROM Employee
+WHERE DATE LIKE '%2%';
